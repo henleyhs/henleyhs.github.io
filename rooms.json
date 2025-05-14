@@ -1,0 +1,585 @@
+[
+    {
+      "name": "Room 101",
+      "house": "Mawson",
+      "x": 714,
+      "y": 582
+    },
+    {
+      "name": "Room 102",
+      "house": "Mawson",
+      "x": 669,
+      "y": 579
+    },
+    {
+      "name": "Room 103",
+      "house": "Mawson",
+      "x": 663,
+      "y": 612
+    },
+    {
+      "name": "Room 104",
+      "house": "Mawson",
+      "x": 663,
+      "y": 651
+    },
+    {
+      "name": "Mawson Common Room | 110",
+      "house": "Mawson",
+      "x": 709,
+      "y": 626
+    },
+    {
+      "name": "Room 111",
+      "house": "N/A",
+      "x": 709,
+      "y": 680
+    },
+    {
+      "name": "Florey/Mawson Office | 102",
+      "house": "N/A",
+      "x": 745,
+      "y": 681
+    },
+    {
+      "name": "Florey Common Room | 109",
+      "house": "Florey",
+      "x": 711,
+      "y": 723
+    },
+    {
+      "name": "Room 105",
+      "house": "Florey",
+      "x": 665,
+      "y": 693
+    },
+    {
+      "name": "Room 106",
+      "house": "Florey",
+      "x": 666,
+      "y": 731
+    },
+    {
+      "name": "Room 107 🏆",
+      "house": "Florey",
+      "x": 668,
+      "y": 769
+    },
+    {
+      "name": "Room 108",
+      "house": "Florey",
+      "x": 713,
+      "y": 765
+    },
+    {
+      "name": "Meeting Room | 101A",
+      "house": "N/A",
+      "x": 745,
+      "y": 598
+    },
+    {
+      "name": "Meeting Room | 114",
+      "house": "N/A",
+      "x": 857,
+      "y": 598
+    },
+    {
+      "name": "IT | 115",
+      "house": "N/A",
+      "x": 895,
+      "y": 598
+    },
+    {
+      "name": "N/A | 116",
+      "house": "N/A",
+      "x": 932,
+      "y": 598
+    },
+    {
+      "name": "Room 140",
+      "house": "N/A",
+      "x": 892,
+      "y": 656
+    },
+    {
+      "name": "Room 141",
+      "house": "N/A",
+      "x": 935,
+      "y": 656
+    },
+    {
+      "name": "N/A | 124",
+      "house": "N/A",
+      "x": 845,
+      "y": 665
+    },
+    {
+      "name": "Room 142",
+      "house": "N/A",
+      "x": 910,
+      "y": 700
+    },
+    {
+      "name": "Room 143",
+      "house": "N/A",
+      "x": 910,
+      "y": 735
+    },
+    {
+      "name": "Scicence Office | 144",
+      "house": "N/A",
+      "x": 910,
+      "y": 770
+    },
+    {
+      "name": "Yr 11 Study Space | 145",
+      "house": "N/A",
+      "x": 910,
+      "y": 800
+    },
+    {
+      "name": "Yr 12 Study Space | 146",
+      "house": "N/A",
+      "x": 890,
+      "y": 850
+    },
+    {
+      "name": "Yr 12 Study Space | 147",
+      "house": "N/A",
+      "x": 935,
+      "y": 850
+    },
+    {
+      "name": "Room 123",
+      "house": "N/A",
+      "x": 840,
+      "y": 700
+    },
+    {
+      "name": "Room 121",
+      "house": "N/A",
+      "x": 840,
+      "y": 770
+    },
+    {
+      "name": "Room 120",
+      "house": "N/A",
+      "x": 840,
+      "y": 820
+    },
+    {
+      "name": "Room 128",
+      "house": "N/A",
+      "x": 995,
+      "y": 735
+    },
+    {
+      "name": "Room 127",
+      "house": "N/A",
+      "x": 995,
+      "y": 780
+    },
+    {
+      "name": "Room 126",
+      "house": "N/A",
+      "x": 995,
+      "y": 820
+    },
+    {
+      "name": "Room 125",
+      "house": "N/A",
+      "x": 995,
+      "y": 860
+    },
+    {
+      "name": "Student Services/Reception (150, 161, 162, 163, 164)",
+      "house": "N/A",
+      "x": 1015,
+      "y": 500
+    },
+    {
+      "name": "Board Room",
+      "house": "N/A",
+      "x": 1125,
+      "y": 585
+    },
+    {
+      "name": "Business Leader",
+      "house": "N/A",
+      "x": 1100,
+      "y": 570
+    },
+    {
+      "name": "Principal",
+      "house": "N/A",
+      "x": 1075,
+      "y": 570
+    },
+    {
+      "name": "Deputy Principal",
+      "house": "N/A",
+      "x": 1050,
+      "y": 570
+    },
+    {
+      "name": "173",
+      "house": "N/A",
+      "x": 1035,
+      "y": 595
+    },
+    {
+      "name": "172",
+      "house": "N/A",
+      "x": 1050,
+      "y": 595
+    },
+    {
+      "name": "171",
+      "house": "N/A",
+      "x": 1070,
+      "y": 595
+    },
+    {
+      "name": "169",
+      "house": "N/A",
+      "x": 1100,
+      "y": 595
+    },
+    {
+      "name": "Staff Room | 178",
+      "house": "N/A",
+      "x": 1105,
+      "y": 685
+    },
+    {
+      "name": "133",
+      "house": "Florey",
+      "x": 1105,
+      "y": 765
+    },
+    {
+      "name": "134",
+      "house": "Florey",
+      "x": 1105,
+      "y": 805
+    },
+    {
+      "name": "137",
+      "house": "Florey",
+      "x": 1105,
+      "y": 860
+    },
+    {
+      "name": "138",
+      "house": "Florey",
+      "x": 1150,
+      "y": 860
+    },
+    {
+      "name": "136",
+      "house": "Florey",
+      "x": 1190,
+      "y": 805
+    },
+    {
+      "name": "135",
+      "house": "Florey",
+      "x": 1190,
+      "y": 765
+    },
+    {
+      "name": "139",
+      "house": "Mawson",
+      "x": 1200,
+      "y": 860
+    },
+    {
+      "name": "Meeting Room | 201A",
+      "house": "N/A",
+      "x": 335,
+      "y": 505
+    },
+    {
+      "name": "201",
+      "house": "Mitchell",
+      "x": 300,
+      "y": 485
+    },
+    {
+      "name": "202",
+      "house": "Mitchell",
+      "x": 255,
+      "y": 485
+    },
+    {
+      "name": "203",
+      "house": "Mitchell",
+      "x": 255,
+      "y": 515
+    },
+    {
+      "name": "204",
+      "house": "Mitchell",
+      "x": 255,
+      "y": 555
+    },
+    {
+      "name": "Mitchell Common Room | 210",
+      "house": "Mitchell",
+      "x": 300,
+      "y": 530
+    },
+    {
+      "name": "205",
+      "house": "Oliphant",
+      "x": 255,
+      "y": 595
+    },
+    {
+      "name": "206",
+      "house": "Oliphant",
+      "x": 255,
+      "y": 635
+    },
+    {
+      "name": "207",
+      "house": "Oliphant",
+      "x": 255,
+      "y": 670
+    },
+    {
+      "name": "208",
+      "house": "Oliphant",
+      "x": 300,
+      "y": 670
+    },
+    {
+      "name": "Oliphant Common Room | 209",
+      "house": "Oliphant",
+      "x": 300,
+      "y": 630
+    },
+    {
+      "name": "211",
+      "house": "N/A",
+      "x": 300,
+      "y": 585
+    },
+    {
+      "name": "Mitchell/Oliphant Office | 212",
+      "house": "N/A",
+      "x": 330,
+      "y": 585
+    },
+    {
+      "name": "Stairs to F1 (Mitchell)",
+      "house": "Stairs",
+      "x": 765,
+      "y": 600,
+      "linkedTo": "Stairs to Ground (Mawson)"
+    },
+    {
+      "name": "Stairs to Ground (Mawson)",
+      "house": "Stairs",
+      "x": 355,
+      "y": 505,
+      "linkedTo": "Stairs to F1 (Mitchell)"
+    },
+    {
+      "name": "Stairs to F1 (Lowitja)",
+      "house": "Stairs",
+      "x": 845,
+      "y": 635,
+      "linkedTo": "Stairs to Ground (Senior School)"
+    },
+    {
+      "name": "Stairs to Ground (Senior School)",
+      "house": "Stairs",
+      "x": 435,
+      "y": 543,
+      "linkedTo": "Stairs to F1 (Lowitja)"
+    },
+    {
+      "name": "Stairs/Lift to F1 (Loft)",
+      "house": "Stairs",
+      "x": 990,
+      "y": 605,
+      "linkedTo": "Stairs/Lift to Ground (International/Student Services)"
+    },
+    {
+      "name": "Stairs/Lift to Ground (International/Student Services)",
+      "house": "Stairs",
+      "x": 580,
+      "y": 510,
+      "linkedTo": "Stairs/Lift to F1 (Loft)"
+    },
+    {
+      "name": "224",
+      "house": "Lowitja",
+      "x": 435,
+      "y": 760
+    },
+    {
+      "name": "223",
+      "house": "Lowitja",
+      "x": 435,
+      "y": 720
+    },
+    {
+      "name": "222",
+      "house": "Lowitja",
+      "x": 435,
+      "y": 680
+    },
+    {
+      "name": "Lowitja Common Room | 225",
+      "house": "Lowitja",
+      "x": 435,
+      "y": 640
+    },
+    {
+      "name": "221",
+      "house": "Lowitja",
+      "x": 435,
+      "y": 605
+    },
+    {
+      "name": "Lowitja Office | 220",
+      "house": "Lowitja",
+      "x": 435,
+      "y": 565
+    },
+    {
+      "name": "226",
+      "house": "Loft",
+      "x": 590,
+      "y": 565
+    },
+    {
+      "name": "227",
+      "house": "Loft",
+      "x": 590,
+      "y": 610
+    },
+    {
+      "name": "228",
+      "house": "Loft",
+      "x": 580,
+      "y": 650
+    },
+    {
+      "name": "234",
+      "house": "Loft",
+      "x": 570,
+      "y": 690
+    },
+    {
+      "name": "230",
+      "house": "Loft",
+      "x": 570,
+      "y": 710
+    },
+    {
+      "name": "231",
+      "house": "Loft",
+      "x": 605,
+      "y": 690
+    },
+    {
+      "name": "232",
+      "house": "Loft",
+      "x": 605,
+      "y": 705
+    },
+    {
+      "name": "233",
+      "house": "Loft",
+      "x": 605,
+      "y": 721
+    },
+    {
+      "name": "229",
+      "house": "Loft",
+      "x": 585,
+      "y": 760
+    },
+    {
+      "name": "Office | 217",
+      "house": "N/A",
+      "x": 505,
+      "y": 510
+    },
+    {
+      "name": "Maths Office | 216",
+      "house": "N/A",
+      "x": 475,
+      "y": 510
+    },
+    {
+      "name": "English Office | 215",
+      "house": "N/A",
+      "x": 435,
+      "y": 510
+    },
+    {
+      "name": "402",
+      "house": "Oliphant",
+      "x": 1325,
+      "y": 715
+    },
+    {
+      "name": "403",
+      "house": "Oliphant",
+      "x": 1355,
+      "y": 715
+    },
+    {
+      "name": "405",
+      "house": "Oliphant",
+      "x": 1335,
+      "y": 800
+    },
+    {
+      "name": "404",
+      "house": "Oliphant",
+      "x": 1335,
+      "y": 740
+    },
+    {
+      "name": "401",
+      "house": "Oliphant",
+      "x": 1335,
+      "y": 680
+    },
+    {
+      "name": "408",
+      "house": "Oliphant",
+      "x": 1410,
+      "y": 785
+    },
+    {
+      "name": "Art Office | 406",
+      "house": "N/A",
+      "x": 1400,
+      "y": 815
+    },
+    {
+      "name": "409",
+      "house": "Oliphant",
+      "x": 1460,
+      "y": 785
+    },
+    {
+      "name": "417",
+      "house": "Oliphant",
+      "x": 1540,
+      "y": 630
+    },
+    {
+      "name": "Performing Arts Office | 428",
+      "house": "N/A",
+      "x": 1490,
+      "y": 650
+    }
+  ]
+  
