@@ -25,7 +25,8 @@ fetch('rooms.json')
         "lowitja": "#7b6ca8",
         "mitchell": "red",
         "loft": "lime",
-        "stairs": "#d048b2"
+        "stairs": "#d048b2",
+        "slc": "#fc907c"
       };
       const houseKey = room.house?.toLowerCase() || "";
       const fillColor = colorMap[houseKey] || "lightgray";
