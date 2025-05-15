@@ -888,6 +888,78 @@
       "house": "N/A",
       "x": 650,
       "y": 1075
+    },
+    {
+      "name": "502",
+      "house": "SLC",
+      "x": 650,
+      "y": 1145
+    },
+    {
+      "name": "500",
+      "house": "SLC",
+      "x": 680,
+      "y": 1175
+    },
+    {
+      "name": "503",
+      "house": "SLC",
+      "x": 725,
+      "y": 1170
+    },
+    {
+      "name": "501",
+      "house": "SLC",
+      "x": 635,
+      "y": 1215
+    },
+    {
+      "name": "Kitchen | 433",
+      "house": "N/A",
+      "x": 1360,
+      "y": 540
+    },
+    {
+      "name": "Academy/PE Office | 446",
+      "house": "N/A",
+      "x": 1420,
+      "y": 540
+    },
+    {
+      "name": "Storage | 447",
+      "house": "N/A",
+      "x": 1480,
+      "y": 540
+    },
+    {
+      "name": "Hall | 450",
+      "house": "N/A",
+      "x": 1510,
+      "y": 475
+    },
+    {
+      "name": "Stage | 451",
+      "house": "N/A",
+      "x": 1580,
+      "y": 475
+    },
+    {
+      "name": "Public Courts | 454",
+      "house": "N/A",
+      "x": 1060,
+      "y": 190
+    },
+    {
+      "name": "Student Courts 1 | 453",
+      "house": "N/A",
+      "x": 1270,
+      "y": 190
+    },
+    {
+      "name": "Netball Courts | 452",
+      "house": "N/A",
+      "x": 1465,
+      "y": 190
     }
   ]
   
