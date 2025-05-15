@@ -414,6 +414,20 @@
       "linkedTo": "Stairs/Lift to F1 (Loft)"
     },
     {
+      "name": "Stairs/Lift to F1 (Oliphant/Lowitja)",
+      "house": "Stairs",
+      "x": 780,
+      "y": 770,
+      "linkedTo": "Stairs/Lift to Ground (Yr 7/8 Courtyard)"
+    },
+    {
+      "name": "Stairs/Lift to Ground (Yr 7/8 Courtyard)",
+      "house": "Stairs",
+      "x": 365,
+      "y": 645,
+      "linkedTo": "Stairs/Lift to F1 (Oliphant/Lowitja)"
+    },
+    {
       "name": "224",
       "house": "Lowitja",
       "x": 435,
@@ -580,6 +594,300 @@
       "house": "N/A",
       "x": 1490,
       "y": 650
+    },
+    {
+      "name": "426",
+      "house": "N/A",
+      "x": 1450,
+      "y": 650
+    },
+    {
+      "name": "423",
+      "house": "N/A",
+      "x": 1400,
+      "y": 635
+    },
+    {
+      "name": "416",
+      "house": "N/A",
+      "x": 1540,
+      "y": 675
+    },
+    {
+      "name": "414",
+      "house": "N/A",
+      "x": 1540,
+      "y": 740
+    },
+    {
+      "name": "413",
+      "house": "Mawson",
+      "x": 1535,
+      "y": 820
+    },
+    {
+      "name": "412A",
+      "house": "N/A",
+      "x": 1570,
+      "y": 820
+    },
+    {
+      "name": "414",
+      "house": "Mawson",
+      "x": 1610,
+      "y": 820
+    },
+    {
+      "name": "411",
+      "house": "N/A",
+      "x": 1610,
+      "y": 915
+    },
+    {
+      "name": "414",
+      "house": "N/A",
+      "x": 1610,
+      "y": 960
+    },
+    {
+      "name": "341",
+      "house": "N/A",
+      "x": 1550,
+      "y": 915
+    },
+    {
+      "name": "340",
+      "house": "N/A",
+      "x": 1515,
+      "y": 915
+    },
+    {
+      "name": "339",
+      "house": "Mawson",
+      "x": 1480,
+      "y": 915
+    },
+    {
+      "name": "339A",
+      "house": "N/A",
+      "x": 1480,
+      "y": 955
+    },
+    {
+      "name": "338",
+      "house": "N/A",
+      "x": 1440,
+      "y": 915
+    },
+    {
+      "name": "Gym/Stadium | 337",
+      "house": "N/A",
+      "x": 1480,
+      "y": 1050
+    },
+    {
+      "name": "Gym West | 334",
+      "house": "N/A",
+      "x": 1525,
+      "y": 1160
+    },
+    {
+      "name": "331",
+      "house": "Mawson",
+      "x": 1325,
+      "y": 980
+    },
+    {
+      "name": "330",
+      "house": "Mawson",
+      "x": 1325,
+      "y": 1015
+    },
+    {
+      "name": "Office | 328",
+      "house": "N/A",
+      "x": 1240,
+      "y": 1025
+    },
+    {
+      "name": "329",
+      "house": "N/A",
+      "x": 1240,
+      "y": 985
+    },
+    {
+      "name": "Plastics | 320",
+      "house": "N/A",
+      "x": 1130,
+      "y": 975
+    },
+    {
+      "name": "Wood 1 | 320",
+      "house": "N/A",
+      "x": 1130,
+      "y": 1030
+    },
+    {
+      "name": "Wood 2 | 316",
+      "house": "N/A",
+      "x": 1130,
+      "y": 1175
+    },
+    {
+      "name": "Store | 317",
+      "house": "N/A",
+      "x": 1120,
+      "y": 1095
+    },
+    {
+      "name": "318",
+      "house": "N/A",
+      "x": 1155,
+      "y": 1085
+    },
+    {
+      "name": "Jewllery | 321",
+      "house": "N/A",
+      "x": 1255,
+      "y": 1190
+    },
+    {
+      "name": "Metal 1 | 320",
+      "house": "N/A",
+      "x": 1275,
+      "y": 1140
+    },
+    {
+      "name": "Store | 325",
+      "house": "N/A",
+      "x": 1250,
+      "y": 1090
+    },
+    {
+      "name": "326",
+      "house": "N/A",
+      "x": 1280,
+      "y": 1070
+    },
+    {
+      "name": "327",
+      "house": "N/A",
+      "x": 1300,
+      "y": 1085
+    },
+    {
+      "name": "Canteen | 315",
+      "house": "N/A",
+      "x": 1110,
+      "y": 1255
+    },
+    {
+      "name": "314",
+      "house": "Lowitja",
+      "x": 1040,
+      "y": 1255
+    },
+    {
+      "name": "313",
+      "house": "Lowitja",
+      "x": 995,
+      "y": 1255
+    },
+    {
+      "name": "312",
+      "house": "Lowitja",
+      "x": 960,
+      "y": 1255
+    },
+    {
+      "name": "309",
+      "house": "Lowitja",
+      "x": 880,
+      "y": 1255
+    },
+    {
+      "name": "313",
+      "house": "Lowitja",
+      "x": 840,
+      "y": 1255
+    },
+    {
+      "name": "312",
+      "house": "Lowitja",
+      "x": 800,
+      "y": 1255
+    },
+    {
+      "name": "306",
+      "house": "Mitchell",
+      "x": 790,
+      "y": 1045
+    },
+    {
+      "name": "306A",
+      "house": "N/A",
+      "x": 755,
+      "y": 1020
+    },
+    {
+      "name": "304",
+      "house": "Mitchell",
+      "x": 700,
+      "y": 1060
+    },
+    {
+      "name": "305",
+      "house": "Mitchell",
+      "x": 700,
+      "y": 975
+    },
+    {
+      "name": "301",
+      "house": "N/A",
+      "x": 625,
+      "y": 995
+    },
+    {
+      "name": "304",
+      "house": "Mitchell",
+      "x": 625,
+      "y": 950
+    },
+    {
+      "name": "310",
+      "house": "N/A",
+      "x": 920,
+      "y": 1200
+    },
+    {
+      "name": "309A",
+      "house": "N/A",
+      "x": 880,
+      "y": 1200
+    },
+    {
+      "name": "308A",
+      "house": "N/A",
+      "x": 840,
+      "y": 1200
+    },
+    {
+      "name": "302",
+      "house": "Mitchell",
+      "x": 625,
+      "y": 1030
+    },
+    {
+      "name": "303",
+      "house": "Mitchell",
+      "x": 625,
+      "y": 1080
+    },
+    {
+      "name": "Home Economics Office | 303A",
+      "house": "N/A",
+      "x": 650,
+      "y": 1075
     }
   ]
   
