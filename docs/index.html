@@ -9,6 +9,32 @@
 </head>
 <body>
   <h1>Henley High School Interactive Map</h1>
+  <div id="welcomePopup" class="popup-overlay">
+  <div class="popup-content">
+    <h2>Welcome to HHS Map!</h2>
+    <p>This map lets you find any room in Henley High School.</p>
+    <h3>How to Use:</h3>
+    <ul>
+      <li>Search by room number or house name</li>
+      <li>Click markers to view room info</li>
+      <li>Some markers link to others (e.g. stairs)</li>
+    </ul>
+
+    <h3>🏠 Marker Colors:</h3>
+    <ul>
+      <li><span class="color-box" style="background: blue;"></span> Florey</li>
+      <li><span class="color-box" style="background: red;"></span> Mitchell</li>
+      <li><span class="color-box" style="background: green;"></span> Mawson</li>
+      <li><span class="color-box" style="background: yellow;"></span> Oliphant</li>
+      <li><span class="color-box" style="background: #7b6ca8;"></span> Lowitja</li>
+      <li><span class="color-box" style="background: lightgray;"></span> Not Assigned</li>
+      <li><span class="color-box" style="background: #d048b2;"></span> Stairs</li>
+      <li><span class="color-box" style="background: #fc907c;"></span> SLC</li>
+    </ul>
+
+    <button onclick="closeWelcome()">Got it!</button>
+  </div>
+</div>
 
   <div class="controls">
     <select id="houseSelect">

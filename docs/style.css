@@ -22,4 +22,31 @@ body {
     margin: auto;
     border: 2px solid #ccc;
   }
-  
+  .popup-overlay {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100vw; height: 100vh;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: 10000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .popup-content {
+    background: white;
+    padding: 20px 30px;
+    border-radius: 12px;
+    max-width: 500px;
+    box-shadow: 0 0 12px rgba(0,0,0,0.3);
+    font-family: sans-serif;
+  }
+
+  .color-box {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    margin-right: 8px;
+    border: 1px solid #555;
+    vertical-align: middle;
+  }

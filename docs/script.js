@@ -89,7 +89,6 @@ function filterMarkers() {
   }
 }
 
-
 // 🛠️ Mini coordinate tool
 const coordDisplay = document.createElement('div');
 coordDisplay.id = 'coordDisplay';
@@ -110,3 +109,7 @@ map.on('click', function (e) {
   const y = e.latlng.lat.toFixed(0);
   coordDisplay.innerText = `X: ${x}, Y: ${y}`;
 });
+
+function closeWelcome() {
+  document.getElementById('welcomePopup').style.display = 'none';
+}
