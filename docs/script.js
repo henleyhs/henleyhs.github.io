@@ -47,6 +47,10 @@ fetch('rooms.json')
       marker.linkedTo = room.linkedTo;
       markerMap[room.name] = marker;
 
+      marker.on('click', () => {
+      showRoomInfo(room);
+      });
+
       return marker;
     });
 
@@ -88,6 +92,19 @@ function filterMarkers() {
     firstMatch.openPopup(); // show popup
   }
 }
+
+function showRoomInfo(room) {
+  document.getElementById('roomName').textContent = room.name || 'N/A';
+  document.getElementById('roomHouse').textContent = room.house || 'N/A';
+  document.getElementById('roomType').textContent = room.type || 'N/A';
+
+  document.getElementById('infoPanel').classList.add('open');
+}
+
+function closePanel() {
+  document.getElementById('infoPanel').classList.remove('open');
+}
+
 
 // 🛠️ Mini coordinate tool
 const coordDisplay = document.createElement('div');

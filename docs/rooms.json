@@ -2,90 +2,105 @@
     {
       "name": "Room 101",
       "house": "Mawson",
+      "type": "General",
       "x": 714,
       "y": 582
     },
     {
       "name": "Room 102",
       "house": "Mawson",
+      "type": "General",
       "x": 669,
       "y": 579
     },
     {
       "name": "Room 103",
       "house": "Mawson",
+      "type": "General",
       "x": 663,
       "y": 612
     },
     {
       "name": "Room 104",
       "house": "Mawson",
+      "type": "General",
       "x": 663,
       "y": 651
     },
     {
       "name": "Mawson Common Room | 110",
       "house": "Mawson",
+      "type": "Common Area",
       "x": 709,
       "y": 626
     },
     {
       "name": "Room 111",
       "house": "N/A",
+      "type": "Study Space",
       "x": 709,
       "y": 680
     },
     {
       "name": "Florey/Mawson Office | 102",
       "house": "N/A",
+      "type": "Office",
       "x": 745,
       "y": 681
     },
     {
       "name": "Florey Common Room | 109",
       "house": "Florey",
+      "type": "Common Area",
       "x": 711,
       "y": 723
     },
     {
       "name": "Room 105",
       "house": "Florey",
+      "type": "General",
       "x": 665,
       "y": 693
     },
     {
       "name": "Room 106",
       "house": "Florey",
+      "type": "General",
       "x": 666,
       "y": 731
     },
     {
       "name": "Room 107 🏆",
       "house": "Florey",
+      "type": "General",
       "x": 668,
       "y": 769
     },
     {
       "name": "Room 108",
       "house": "Florey",
+      "type": "General",
       "x": 713,
       "y": 765
     },
     {
       "name": "Meeting Room | 101A",
       "house": "N/A",
+      "type": "Office",
       "x": 745,
       "y": 598
     },
     {
       "name": "Meeting Room | 114",
       "house": "N/A",
+      "type": "Office",
       "x": 857,
       "y": 598
     },
     {
       "name": "IT | 115",
       "house": "N/A",
+      "type": "Services",
       "x": 895,
       "y": 598
     },
@@ -98,276 +113,322 @@
     {
       "name": "Room 140",
       "house": "N/A",
+      "type": "General",
       "x": 892,
       "y": 656
     },
     {
       "name": "Room 141",
       "house": "N/A",
+      "type": "General",
       "x": 935,
       "y": 656
     },
     {
       "name": "N/A | 124",
       "house": "N/A",
+      "type": "Office",
       "x": 845,
       "y": 665
     },
     {
       "name": "Room 142",
       "house": "N/A",
+      "type": "Science",
       "x": 910,
       "y": 700
     },
     {
       "name": "Room 143",
       "house": "N/A",
+      "type": "Science",
       "x": 910,
       "y": 735
     },
     {
       "name": "Scicence Office | 144",
       "house": "N/A",
+      "type": "Office",
       "x": 910,
       "y": 770
     },
     {
       "name": "Yr 11 Study Space | 145",
       "house": "N/A",
+      "type": "Study Space",
       "x": 910,
       "y": 800
     },
     {
       "name": "Yr 12 Study Space | 146",
       "house": "N/A",
+      "type": "Study Space",
       "x": 890,
       "y": 850
     },
     {
       "name": "Yr 12 Study Space | 147",
       "house": "N/A",
+      "type": "Study Space",
       "x": 935,
       "y": 850
     },
     {
       "name": "Room 123",
       "house": "N/A",
+      "type": "Science",
       "x": 840,
       "y": 700
     },
     {
       "name": "Room 121",
       "house": "N/A",
+      "type": "Science",
       "x": 840,
       "y": 770
     },
     {
       "name": "Room 120",
       "house": "N/A",
+      "type": "Science",
       "x": 840,
       "y": 820
     },
     {
       "name": "Room 128",
       "house": "N/A",
+      "type": "General",
       "x": 995,
       "y": 735
     },
     {
       "name": "Room 127",
       "house": "N/A",
+      "type": "General",
       "x": 995,
       "y": 780
     },
     {
       "name": "Room 126",
       "house": "N/A",
+      "type": "General",
       "x": 995,
       "y": 820
     },
     {
       "name": "Room 125",
       "house": "N/A",
+      "type": "General",
       "x": 995,
       "y": 860
     },
     {
       "name": "Student Services/Reception (150, 161, 162, 163, 164)",
       "house": "N/A",
+      "type": "Services",
       "x": 1015,
       "y": 500
     },
     {
       "name": "Board Room",
       "house": "N/A",
+      "type": "Office",
       "x": 1125,
       "y": 585
     },
     {
       "name": "Business Leader",
       "house": "N/A",
+      "type": "Office",
       "x": 1100,
       "y": 570
     },
     {
       "name": "Principal",
       "house": "N/A",
+      "type": "Office",
       "x": 1075,
       "y": 570
     },
     {
       "name": "Deputy Principal",
       "house": "N/A",
+      "type": "Office",
       "x": 1050,
       "y": 570
     },
     {
       "name": "173",
       "house": "N/A",
+      "type": "Office",
       "x": 1035,
       "y": 595
     },
     {
       "name": "172",
       "house": "N/A",
+      "type": "Office",
       "x": 1050,
       "y": 595
     },
     {
       "name": "171",
       "house": "N/A",
+      "type": "Office",
       "x": 1070,
       "y": 595
     },
     {
       "name": "169",
       "house": "N/A",
+      "type": "Office",
       "x": 1100,
       "y": 595
     },
     {
       "name": "Staff Room | 178",
       "house": "N/A",
+      "type": "Office",
       "x": 1105,
       "y": 685
     },
     {
       "name": "133",
       "house": "Florey",
+      "type": "General",
       "x": 1105,
       "y": 765
     },
     {
       "name": "134",
       "house": "Florey",
+      "type": "General",
       "x": 1105,
       "y": 805
     },
     {
       "name": "137",
       "house": "Florey",
+      "type": "General",
       "x": 1105,
       "y": 860
     },
     {
       "name": "138",
       "house": "Florey",
+      "type": "General",
       "x": 1150,
       "y": 860
     },
     {
       "name": "136",
       "house": "Florey",
+      "type": "General",
       "x": 1190,
       "y": 805
     },
     {
       "name": "135",
       "house": "Florey",
+      "type": "General",
       "x": 1190,
       "y": 765
     },
     {
       "name": "139",
       "house": "Mawson",
+      "type": "General",
       "x": 1200,
       "y": 860
     },
     {
       "name": "Meeting Room | 201A",
       "house": "N/A",
+      "type": "Office",
       "x": 335,
       "y": 505
     },
     {
       "name": "201",
       "house": "Mitchell",
+      "type": "General",
       "x": 300,
       "y": 485
     },
     {
       "name": "202",
       "house": "Mitchell",
+      "type": "General",
       "x": 255,
       "y": 485
     },
     {
       "name": "203",
       "house": "Mitchell",
+      "type": "General",
       "x": 255,
       "y": 515
     },
     {
       "name": "204",
       "house": "Mitchell",
+      "type": "General",
       "x": 255,
       "y": 555
     },
     {
       "name": "Mitchell Common Room | 210",
       "house": "Mitchell",
+      "type": "Common Area",
       "x": 300,
       "y": 530
     },
     {
       "name": "205",
       "house": "Oliphant",
+      "type": "General",
       "x": 255,
       "y": 595
     },
     {
       "name": "206",
       "house": "Oliphant",
+      "type": "General",
       "x": 255,
       "y": 635
     },
     {
       "name": "207",
       "house": "Oliphant",
+      "type": "General",
       "x": 255,
       "y": 670
     },
     {
       "name": "208",
       "house": "Oliphant",
+      "type": "General",
       "x": 300,
       "y": 670
     },
     {
       "name": "Oliphant Common Room | 209",
       "house": "Oliphant",
+      "type": "Common Area",
       "x": 300,
       "y": 630
     },
     {
       "name": "211",
       "house": "N/A",
+      "type": "Study Space",
       "x": 300,
       "y": 585
     },
     {
       "name": "Mitchell/Oliphant Office | 212",
       "house": "N/A",
+      "type": "Office",
       "x": 330,
       "y": 585
     },
@@ -430,90 +491,105 @@
     {
       "name": "224",
       "house": "Lowitja",
+      "type": "General",
       "x": 435,
       "y": 760
     },
     {
       "name": "223",
       "house": "Lowitja",
+      "type": "General",
       "x": 435,
       "y": 720
     },
     {
       "name": "222",
       "house": "Lowitja",
+      "type": "General",
       "x": 435,
       "y": 680
     },
     {
       "name": "Lowitja Common Room | 225",
       "house": "Lowitja",
+      "type": "Common Area",
       "x": 435,
       "y": 640
     },
     {
       "name": "221",
       "house": "Lowitja",
+      "type": "General",
       "x": 435,
       "y": 605
     },
     {
       "name": "Lowitja Office | 220",
       "house": "Lowitja",
+      "type": "Office",
       "x": 435,
       "y": 565
     },
     {
       "name": "226",
       "house": "Loft",
+      "type": "General",
       "x": 590,
       "y": 565
     },
     {
       "name": "227",
       "house": "Loft",
+      "type": "General",
       "x": 590,
       "y": 610
     },
     {
       "name": "228",
       "house": "Loft",
+      "type": "General",
       "x": 580,
       "y": 650
     },
     {
       "name": "234",
       "house": "Loft",
+      "type": "Office",
       "x": 570,
       "y": 690
     },
     {
       "name": "230",
       "house": "Loft",
+      "type": "Office",
       "x": 570,
       "y": 710
     },
     {
       "name": "231",
       "house": "Loft",
+      "type": "Office",
       "x": 605,
       "y": 690
     },
     {
       "name": "232",
       "house": "Loft",
+      "type": "Office",
       "x": 605,
       "y": 705
     },
     {
       "name": "233",
       "house": "Loft",
+      "type": "Office",
       "x": 605,
       "y": 721
     },
     {
       "name": "229",
       "house": "Loft",
+      "type": "Office",
       "x": 585,
       "y": 760
     },

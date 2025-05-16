@@ -53,6 +53,14 @@
 
   <div id="map"></div>
 
+  <div id="infoPanel" class="info-panel">
+  <button onclick="closePanel()" class="close-btn">&times;</button>
+  <h2 id="roomName">Room Name</h2>
+  <p><strong>House:</strong> <span id="roomHouse"></span></p>
+  <p><strong>Type:</strong> <span id="roomType"></span></p>
+</div>
+
+
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
   <script src="script.js"></script>
 </body>
