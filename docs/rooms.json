@@ -596,24 +596,27 @@
     {
       "name": "Office | 217",
       "house": "N/A",
+      "type": "Office",
       "x": 505,
       "y": 510
     },
     {
       "name": "Maths Office | 216",
       "house": "N/A",
+      "type": "Office",
       "x": 475,
       "y": 510
     },
     {
       "name": "English Office | 215",
       "house": "N/A",
+      "type": "Office",
       "x": 435,
       "y": 510
     },
     {
       "name": "402",
-      "house": "Oliphant",
+      "house": "Oliphant",  
       "x": 1325,
       "y": 715
     },
@@ -626,18 +629,21 @@
     {
       "name": "405",
       "house": "Oliphant",
+      "type": "Computer Room",
       "x": 1335,
       "y": 800
     },
     {
       "name": "404",
       "house": "Oliphant",
+      "type": "Computer Room",
       "x": 1335,
       "y": 740
     },
     {
       "name": "401",
       "house": "Oliphant",
+      "type": "Art Room",
       "x": 1335,
       "y": 680
     },
@@ -650,6 +656,7 @@
     {
       "name": "Art Office | 406",
       "house": "N/A",
+      "type": "Office",
       "x": 1400,
       "y": 815
     },
@@ -668,6 +675,7 @@
     {
       "name": "Performing Arts Office | 428",
       "house": "N/A",
+      "type": "Office",
       "x": 1490,
       "y": 650
     },
@@ -698,6 +706,7 @@
     {
       "name": "413",
       "house": "Mawson",
+      "type": "Art Room",
       "x": 1535,
       "y": 820
     },
@@ -720,7 +729,7 @@
       "y": 915
     },
     {
-      "name": "414",
+      "name": "412",
       "house": "N/A",
       "x": 1610,
       "y": 960
